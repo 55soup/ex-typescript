@@ -1,1 +1,4 @@
-var 회원들 = ["0", "park"];
+var 회원들 = {
+    member1: "kim",
+    member2: "park",
+};
