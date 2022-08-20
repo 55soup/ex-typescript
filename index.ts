@@ -1,4 +1,4 @@
-function 함수(x) {
+function 함수(x: number) {
   return x * 2;
 }
 
